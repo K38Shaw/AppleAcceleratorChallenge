@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'AppleAcceleratorChallengeUITests' in project 'AppleAcceleratorChallenge'
+➜ Explicit dependency on target 'AppleAcceleratorChallenge' in project 'AppleAcceleratorChallenge'
+Target 'AppleAcceleratorChallengeTests' in project 'AppleAcceleratorChallenge'
+➜ Explicit dependency on target 'AppleAcceleratorChallenge' in project 'AppleAcceleratorChallenge'
+Target 'AppleAcceleratorChallenge' in project 'AppleAcceleratorChallenge' (no dependencies)

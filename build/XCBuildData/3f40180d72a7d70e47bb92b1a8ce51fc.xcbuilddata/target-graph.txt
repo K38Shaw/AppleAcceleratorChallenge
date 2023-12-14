@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'AppleAcceleratorChallenge' in project 'AppleAcceleratorChallenge' (no dependencies)

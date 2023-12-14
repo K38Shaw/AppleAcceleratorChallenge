@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests-master.dia",
+    "emit-module-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests-master.swiftdeps"
+  },
+  "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/AppleAcceleratorChallengeUITests/AppleAcceleratorChallengeUITests.swift" : {
+    "const-values" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests.swiftconstvalues",
+    "dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests.d",
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests.dia",
+    "index-unit-output-path" : "/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests.o",
+    "llvm-bc" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests.bc",
+    "object" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests.o",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests.swiftdeps",
+    "swiftmodule" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITests~partial.swiftmodule"
+  },
+  "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/AppleAcceleratorChallengeUITests/AppleAcceleratorChallengeUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITestsLaunchTests.d",
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITestsLaunchTests.bc",
+    "object" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallengeUITests.build/Objects-normal/arm64/AppleAcceleratorChallengeUITestsLaunchTests~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallenge-master.dia",
+    "emit-module-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallenge-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallenge-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallenge-master.swiftdeps"
+  },
+  "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/AppleAcceleratorChallenge/AppleAcceleratorChallengeApp.swift" : {
+    "const-values" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallengeApp.swiftconstvalues",
+    "dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallengeApp.d",
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallengeApp.dia",
+    "index-unit-output-path" : "/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallengeApp.o",
+    "llvm-bc" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallengeApp.bc",
+    "object" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallengeApp.o",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallengeApp.swiftdeps",
+    "swiftmodule" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/AppleAcceleratorChallengeApp~partial.swiftmodule"
+  },
+  "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/AppleAcceleratorChallenge/ColorPickerCircleView.swift" : {
+    "const-values" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ColorPickerCircleView.swiftconstvalues",
+    "dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ColorPickerCircleView.d",
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ColorPickerCircleView.dia",
+    "index-unit-output-path" : "/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ColorPickerCircleView.o",
+    "llvm-bc" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ColorPickerCircleView.bc",
+    "object" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ColorPickerCircleView.o",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ColorPickerCircleView.swiftdeps",
+    "swiftmodule" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ColorPickerCircleView~partial.swiftmodule"
+  },
+  "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/AppleAcceleratorChallenge/ContentView.swift" : {
+    "const-values" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/AppleAcceleratorChallenge/DropSpotView.swift" : {
+    "const-values" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/DropSpotView.swiftconstvalues",
+    "dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/DropSpotView.d",
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/DropSpotView.dia",
+    "index-unit-output-path" : "/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/DropSpotView.o",
+    "llvm-bc" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/DropSpotView.bc",
+    "object" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/DropSpotView.o",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/DropSpotView.swiftdeps",
+    "swiftmodule" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/DropSpotView~partial.swiftmodule"
+  },
+  "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/AppleAcceleratorChallenge/EmojiDropData.swift" : {
+    "const-values" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/EmojiDropData.swiftconstvalues",
+    "dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/EmojiDropData.d",
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/EmojiDropData.dia",
+    "index-unit-output-path" : "/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/EmojiDropData.o",
+    "llvm-bc" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/EmojiDropData.bc",
+    "object" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/EmojiDropData.o",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/EmojiDropData.swiftdeps",
+    "swiftmodule" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/EmojiDropData~partial.swiftmodule"
+  },
+  "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/build/AppleAcceleratorChallenge.build/Debug-iphonesimulator/AppleAcceleratorChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

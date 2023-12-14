@@ -1,0 +1,20 @@
+{
+  "source": "/Users/kenlishaw/Desktop/XCODE-Y2/AppleAcceleratorChallenge/AppleAcceleratorChallenge/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Paint Color"
+      },
+      {
+        "comment": "",
+        "key": "Font Size of %lld"
+      },
+      {
+        "comment": "",
+        "key": "Rotation of %lld degrees"
+      }
+    ]
+  },
+  "version": 1
+}
