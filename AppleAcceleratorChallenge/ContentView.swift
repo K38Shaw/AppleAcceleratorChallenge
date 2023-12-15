@@ -69,7 +69,7 @@ struct ContentView: View {
             VStack {
                 //                Text("Hello World").font(.system(size: fontSize)).rotationEffect(.degrees(rotationAngle))
                 Text("Font Size of \(Int(fontSize))")
-                Slider(value: $fontSize, in: 10...50, step: 1).onChange(of: fontSize) {oldSize, newSize in if newSize != oldSize
+                Slider(value: $fontSize, in: 30...100, step: 5).onChange(of: fontSize) {oldSize, newSize in if newSize != oldSize
                     {updateEmojiValues()}
                     
                 }
